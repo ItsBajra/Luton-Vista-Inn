@@ -2,7 +2,7 @@
 > PLEASE READ 'IMPORTANT NOTE.txt'
 
 > [!NOTE]
-> This is my first project done using JAVA.
+> This is my first project done using JAVA and mySQL. The application supports both individual and corporate client. The application also has a separate Receptionist dashboard which allows the receptionist to manage all the bookings and clients. The application contains all CRUD operations features. 
 
 Here are some GUI pictures:
 
@@ -20,5 +20,4 @@ Here are some GUI pictures:
 
 > Receptionist Dashboard GUI:
 ![image](https://github.com/ItsBajra/Luton-Vista-Inn/assets/65555875/69f2c9d9-8edd-411c-87f1-d1951145507e)
-> 
 ![image](https://github.com/ItsBajra/Luton-Vista-Inn/assets/65555875/0bb7f038-1f4f-4dcd-97f3-c9171fe9abab)
