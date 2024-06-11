@@ -1,0 +1,12 @@
+Use Eclipse IDE
+
+Please run SQL Commands.sql file and create the database and all the essential tables
+
+(If needed) Modify the MySQLConnection.java in src/Operations for changing the HOST PORT or anything else required for DB connection
+
+After creating the database, please run HomeGUI.java in src/pkg1
+
+The email and password for Receptionist is:
+
+Email: admin@admin.com
+Password: admin
